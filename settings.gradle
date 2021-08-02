@@ -1,0 +1,2 @@
+rootProject.name='Refiloe WertherApplication'
+include ':app'
